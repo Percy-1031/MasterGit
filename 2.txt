@@ -1,0 +1,2 @@
+I'm creating this file using nano
+this is a cool text editor :)
